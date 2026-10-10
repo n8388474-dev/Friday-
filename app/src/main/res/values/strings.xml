@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Friday</string>
+    <string name="greeting">Hello Boss, I am Friday</string>
+    <string name="tap_to_speak">Tap to speak</string>
+    <string name="listening">Listening...</string>
+    <string name="thinking">Thinking...</string>
+</resources>
